@@ -1,1 +1,1 @@
-Chrome Push Notifications Using a Worker!
+Chrome Push Notifications Using (Worker + Channels)!
